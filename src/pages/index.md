@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Welcome to StanStan.com 
 image: /img/home-jumbotron.png
-heading: 'Tech-Driven Real Estate: Embrace the Future Now'
+heading: Embrace the Future Now
 subheading: Learn How to Stay Ahead with the Latest Tools and Techniques
 mainpitch:
-  title: Why Embrace AI?
+  title: Boost Your Business Now!
   description: >
     Investing in the right AI technology can give you a major advantage in today's highly competitive real estate market. From streamlining your workflow to improving the customer experience, the right AI tools can transform the way you do business. By using our website, you can be sure that you're making informed decisions about which AI solutions are right for your unique needs.
 description: >-
