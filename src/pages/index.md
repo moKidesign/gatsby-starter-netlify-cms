@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Welcome to StanStan.com 
+image: /img/home-jumbotron.png
+heading: 'Tech-Driven Real Estate: Embrace the Future Now'
+subheading: Learn How to Stay Ahead with the Latest Tools and Techniques
 mainpitch:
-  title: Why Kaldi
+  title: Why Embrace AI?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Investing in the right AI technology can give you a major advantage in today's highly competitive real estate market. From streamlining your workflow to improving the customer experience, the right AI tools can transform the way you do business. By using our website, you can be sure that you're making informed decisions about which AI solutions are right for your unique needs.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
